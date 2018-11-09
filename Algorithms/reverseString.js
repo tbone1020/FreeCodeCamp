@@ -1,4 +1,4 @@
-// Reverse a string using a for...loop
+// Reverse the provided string.
 const reverseString = str => {
     let revStr = ""; // create an empty string
 

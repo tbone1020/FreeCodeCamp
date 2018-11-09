@@ -1,4 +1,4 @@
-// A function that utilizes recursion to find the factorial of a number
+// Return the factorial of the provided integer.
 const factorialize = (factors, product = 1) => {
 	if (factors < 1) return product;
 
