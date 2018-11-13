@@ -4,7 +4,7 @@ const reverseString = str => {
 
     // Loop from the end of the string to the beginning
     for (let i = str.length - 1; i >= 0; i--) {
-    		// Add each letter to the revStr
+    	// Add each letter to the revStr
      	revStr += str[i];
     }
     
